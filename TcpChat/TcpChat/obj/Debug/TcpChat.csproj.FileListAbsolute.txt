@@ -1,0 +1,280 @@
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\TcpChat.exe.config
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\TcpChat.exe
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\TcpChat.pdb
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\obj\Debug\ChatClientView.g.cs
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\obj\Debug\App.g.cs
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\obj\Debug\TcpChat_MarkupCompile.cache
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\obj\Debug\TcpChat_MarkupCompile.lref
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\obj\Debug\ChatClientView.baml
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\obj\Debug\TcpChat.g.resources
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\obj\Debug\TcpChat.Properties.Resources.resources
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\obj\Debug\TcpChat.csproj.GenerateResource.cache
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\obj\Debug\TcpChat.csproj.CoreCompileInputs.cache
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\obj\Debug\TcpChat.exe
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\obj\Debug\TcpChat.pdb
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\obj\Debug\TcpChat.csproj.CopyComplete
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\obj\Debug\TcpChat.csprojAssemblyReference.cache
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\netstandard.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.AppContext.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Collections.Concurrent.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Collections.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Collections.NonGeneric.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Collections.Specialized.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.ComponentModel.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Console.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Data.Common.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Diagnostics.Debug.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Diagnostics.Process.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Diagnostics.Tools.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Drawing.Primitives.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Dynamic.Runtime.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Globalization.Calendars.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Globalization.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Globalization.Extensions.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.IO.Compression.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.IO.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.IO.FileSystem.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.IO.Pipes.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Linq.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Linq.Expressions.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Linq.Parallel.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Linq.Queryable.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Net.Http.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Net.NameResolution.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Net.NetworkInformation.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Net.Ping.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Net.Primitives.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Net.Requests.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Net.Security.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Net.Sockets.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Net.WebSockets.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.ObjectModel.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Reflection.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Reflection.Extensions.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Reflection.Primitives.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Resources.Reader.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Resources.ResourceManager.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Resources.Writer.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Runtime.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Runtime.Extensions.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Runtime.Handles.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Runtime.InteropServices.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Runtime.Numerics.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Security.Claims.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Security.Principal.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Security.SecureString.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Text.Encoding.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Text.RegularExpressions.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Threading.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Threading.Overlapped.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Threading.Tasks.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Threading.Thread.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Threading.ThreadPool.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Threading.Timer.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.ValueTuple.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Xml.XDocument.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Xml.XmlDocument.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Xml.XPath.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\UtilsLibrary.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\UtilsLibrary.pdb
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\obj\Debug\TcpChat.exe.config
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\Prism.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\TcpChat\bin\Debug\Prism.xml
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\TcpChat.exe.config
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\TcpChat.exe
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\TcpChat.pdb
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\netstandard.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.AppContext.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Collections.Concurrent.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Collections.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Collections.NonGeneric.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Collections.Specialized.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.ComponentModel.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Console.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Data.Common.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Diagnostics.Debug.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Diagnostics.Process.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Diagnostics.Tools.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Drawing.Primitives.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Dynamic.Runtime.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Globalization.Calendars.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Globalization.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Globalization.Extensions.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.IO.Compression.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.IO.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.IO.FileSystem.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.IO.Pipes.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Linq.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Linq.Expressions.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Linq.Parallel.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Linq.Queryable.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Net.Http.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Net.NameResolution.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Net.NetworkInformation.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Net.Ping.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Net.Primitives.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Net.Requests.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Net.Security.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Net.Sockets.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Net.WebSockets.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.ObjectModel.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Reflection.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Reflection.Extensions.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Reflection.Primitives.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Resources.Reader.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Resources.ResourceManager.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Resources.Writer.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Runtime.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Runtime.Extensions.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Runtime.Handles.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Runtime.InteropServices.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Runtime.Numerics.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Security.Claims.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Security.Principal.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Security.SecureString.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Text.Encoding.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Text.RegularExpressions.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Threading.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Threading.Overlapped.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Threading.Tasks.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Threading.Thread.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Threading.ThreadPool.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Threading.Timer.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.ValueTuple.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Xml.XDocument.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Xml.XmlDocument.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Xml.XPath.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\Prism.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\UtilsLibrary.dll
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\UtilsLibrary.pdb
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Docs\Forks\Tests\TcpChat\TcpChat\bin\Debug\Prism.xml
+D:\Docs\Forks\Tests\TcpChat\TcpChat\obj\Debug\TcpChat.csprojAssemblyReference.cache
+D:\Docs\Forks\Tests\TcpChat\TcpChat\obj\Debug\TcpChat.exe.config
+D:\Docs\Forks\Tests\TcpChat\TcpChat\obj\Debug\ChatClientView.g.cs
+D:\Docs\Forks\Tests\TcpChat\TcpChat\obj\Debug\App.g.cs
+D:\Docs\Forks\Tests\TcpChat\TcpChat\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Docs\Forks\Tests\TcpChat\TcpChat\obj\Debug\TcpChat_MarkupCompile.cache
+D:\Docs\Forks\Tests\TcpChat\TcpChat\obj\Debug\TcpChat_MarkupCompile.lref
+D:\Docs\Forks\Tests\TcpChat\TcpChat\obj\Debug\ChatClientView.baml
+D:\Docs\Forks\Tests\TcpChat\TcpChat\obj\Debug\TcpChat.g.resources
+D:\Docs\Forks\Tests\TcpChat\TcpChat\obj\Debug\TcpChat.Properties.Resources.resources
+D:\Docs\Forks\Tests\TcpChat\TcpChat\obj\Debug\TcpChat.csproj.GenerateResource.cache
+D:\Docs\Forks\Tests\TcpChat\TcpChat\obj\Debug\TcpChat.csproj.CoreCompileInputs.cache
+D:\Docs\Forks\Tests\TcpChat\TcpChat\obj\Debug\TcpChat.csproj.CopyComplete
+D:\Docs\Forks\Tests\TcpChat\TcpChat\obj\Debug\TcpChat.exe
+D:\Docs\Forks\Tests\TcpChat\TcpChat\obj\Debug\TcpChat.pdb
+D:\Dev\TcpChat\TcpChat\bin\Debug\TcpChat.exe.config
+D:\Dev\TcpChat\TcpChat\bin\Debug\TcpChat.exe
+D:\Dev\TcpChat\TcpChat\bin\Debug\TcpChat.pdb
+D:\Dev\TcpChat\TcpChat\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Dev\TcpChat\TcpChat\bin\Debug\Prism.dll
+D:\Dev\TcpChat\TcpChat\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Dev\TcpChat\TcpChat\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Dev\TcpChat\TcpChat\bin\Debug\Prism.xml
+D:\Dev\TcpChat\TcpChat\obj\Debug\TcpChat.csprojAssemblyReference.cache
+D:\Dev\TcpChat\TcpChat\obj\Debug\ChatClientView.g.cs
+D:\Dev\TcpChat\TcpChat\obj\Debug\App.g.cs
+D:\Dev\TcpChat\TcpChat\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Dev\TcpChat\TcpChat\obj\Debug\TcpChat_MarkupCompile.cache
+D:\Dev\TcpChat\TcpChat\obj\Debug\TcpChat_MarkupCompile.lref
+D:\Dev\TcpChat\TcpChat\obj\Debug\ChatClientView.baml
+D:\Dev\TcpChat\TcpChat\obj\Debug\TcpChat.g.resources
+D:\Dev\TcpChat\TcpChat\obj\Debug\TcpChat.Properties.Resources.resources
+D:\Dev\TcpChat\TcpChat\obj\Debug\TcpChat.csproj.GenerateResource.cache
+D:\Dev\TcpChat\TcpChat\obj\Debug\TcpChat.csproj.CoreCompileInputs.cache
+D:\Dev\TcpChat\TcpChat\obj\Debug\TcpChat.csproj.CopyComplete
+D:\Dev\TcpChat\TcpChat\obj\Debug\TcpChat.exe
+D:\Dev\TcpChat\TcpChat\obj\Debug\TcpChat.pdb
+D:\Dev\TcpChat\TcpChat\bin\Debug\GalaSoft.MvvmLight.dll
+D:\Dev\TcpChat\TcpChat\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+D:\Dev\TcpChat\TcpChat\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+D:\Dev\TcpChat\TcpChat\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Dev\TcpChat\TcpChat\bin\Debug\System.Windows.Interactivity.dll
+D:\Dev\TcpChat\TcpChat\bin\Debug\GalaSoft.MvvmLight.pdb
+D:\Dev\TcpChat\TcpChat\bin\Debug\GalaSoft.MvvmLight.xml
+D:\Dev\TcpChat\TcpChat\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+D:\Dev\TcpChat\TcpChat\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+D:\Dev\TcpChat\TcpChat\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+D:\Dev\TcpChat\TcpChat\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+D:\Dev\TcpChat\TcpChat\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Dev\TcpChat\TcpChat\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Dev\TcpChat\TcpChat\bin\Debug\CommonUtils.dll
+D:\Dev\TcpChat\TcpChat\bin\Debug\CommonUtils.pdb
+D:\Dev\TcpChat\TcpChat\bin\Debug\CommonUtils.dll.config

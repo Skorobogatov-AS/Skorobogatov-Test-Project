@@ -1,0 +1,241 @@
+﻿0:00:00: NewUser: фывыфв
+Server started
+New connection: NewUser
+0:09:00: Server started
+0:09:04: New connection: NewUser
+0:09:07: 0:09:07: NewUser: sadasdasdas
+0:09:18: New connection: NewUser3213
+0:09:21: 0:09:21: NewUser3213: asdasdasd
+0:09:28: 0:09:28: NewUser3213: asdasdas
+0:47:04: Server started
+0:47:06: New connection: NewUser
+0:55:21: Server started
+0:55:23: New connection: NewUser
+0:56:59: Server started
+0:57:02: New connection: NewUser
+1:07:08: Server started
+1:07:10: New connection: NewUser
+1:07:12: Message: from "NewUser" to "" message text :"1:07:12: NewUser: dsadasdas"
+1:07:13: Message: from "NewUser" to "" message text :"1:07:13: NewUser: dsadasdassadsa"
+1:07:13: Message: from "NewUser" to "" message text :"1:07:13: NewUser: dsadasdassadsa"
+1:07:15: Message: from "NewUser" to "" message text :"1:07:15: NewUser: dsadasdassadsasadsad"
+1:10:41: Server started
+1:11:31: New connection: NewUser
+1:11:33: Message: from "NewUser" to "" message text :"1:11:33: NewUser: asdsadaas"
+1:11:35: Message: from "NewUser" to "" message text :"1:11:35: NewUser: sadsad"
+1:11:36: Message: from "NewUser" to "" message text :"1:11:36: NewUser: asdsa"
+1:11:36: Message: from "NewUser" to "" message text :"1:11:36: NewUser: dsa"
+1:11:36: Message: from "NewUser" to "" message text :"1:11:36: NewUser: d"
+1:11:36: Message: from "NewUser" to "" message text :"1:11:36: NewUser: sa"
+1:11:37: Message: from "NewUser" to "" message text :"1:11:37: NewUser: d"
+1:11:37: Message: from "NewUser" to "" message text :"1:11:37: NewUser: sa"
+1:11:37: Message: from "NewUser" to "" message text :"1:11:37: NewUser: d"
+1:11:37: Message: from "NewUser" to "" message text :"1:11:37: NewUser: sa"
+1:11:37: Message: from "NewUser" to "" message text :"1:11:37: NewUser: ads"
+1:11:37: Message: from "NewUser" to "" message text :"1:11:37: NewUser: f"
+1:11:37: Message: from "NewUser" to "" message text :"1:11:37: NewUser: sd"
+1:11:38: Message: from "NewUser" to "" message text :"1:11:38: NewUser: f"
+1:11:38: Message: from "NewUser" to "" message text :"1:11:38: NewUser: sad"
+1:11:38: Message: from "NewUser" to "" message text :"1:11:38: NewUser: f"
+1:11:38: Message: from "NewUser" to "" message text :"1:11:38: NewUser: s"
+1:11:38: Message: from "NewUser" to "" message text :"1:11:38: NewUser: sdaf"
+1:11:38: Message: from "NewUser" to "" message text :"1:11:38: NewUser: dsa"
+1:11:39: Message: from "NewUser" to "" message text :"1:11:39: NewUser: fs"
+1:11:39: Message: from "NewUser" to "" message text :"1:11:39: NewUser: fsdaf"
+1:11:39: Message: from "NewUser" to "" message text :"1:11:39: NewUser: dsa"
+1:11:39: Message: from "NewUser" to "" message text :"1:11:39: NewUser: asdf"
+1:11:40: Message: from "NewUser" to "" message text :"1:11:40: NewUser: sad"
+1:16:42: Server started
+1:20:01: Server started
+1:20:03: New connection: NewUser
+1:20:06: Message: from "NewUser" to "" message text :"1:20:06: NewUser: dasdasd"
+1:20:08: Message: from "NewUser" to "" message text :"1:20:08: NewUser: sadsada"
+1:20:55: New connection: NewUser
+1:20:57: Message: from "NewUser" to "" message text :"1:20:57: NewUser: asdsadas"
+1:21:01: New connection: NewUser3213123
+1:21:03: Message: from "NewUser3213123" to "" message text :"1:21:03: NewUser3213123: asdasdasd"
+1:21:06: Message: from "NewUser3213123" to "" message text :"1:21:06: NewUser3213123: asdasdasda"
+1:21:14: Message: from "NewUser3213123" to "" message text :"1:21:14: NewUser3213123: dasasdasdas"
+1:34:00: Server started
+1:34:03: New connection: NewUser
+1:34:05: Message: from "NewUser" to "" message text :"1:34:05: NewUser: фывфыфы"
+1:34:06: Message: from "NewUser" to "" message text :"1:34:06: NewUser: ыфв"
+1:34:06: Message: from "NewUser" to "" message text :"1:34:06: NewUser: фы"
+1:34:06: Message: from "NewUser" to "" message text :"1:34:06: NewUser: в"
+1:34:06: Message: from "NewUser" to "" message text :"1:34:06: NewUser: фы"
+1:34:06: Message: from "NewUser" to "" message text :"1:34:06: NewUser: фыв"
+1:34:07: Message: from "NewUser" to "" message text :"1:34:07: NewUser: в"
+1:34:07: Message: from "NewUser" to "" message text :"1:34:07: NewUser: фывфыв"
+1:34:07: Message: from "NewUser" to "" message text :"1:34:07: NewUser: фы"
+1:34:07: Message: from "NewUser" to "" message text :"1:34:07: NewUser: в"
+1:34:07: Message: from "NewUser" to "" message text :"1:34:07: NewUser: фы"
+1:34:08: Message: from "NewUser" to "" message text :"1:34:08: NewUser: в"
+1:34:08: Message: from "NewUser" to "" message text :"1:34:08: NewUser: вфыв"
+1:34:08: Message: from "NewUser" to "" message text :"1:34:08: NewUser: ф"
+1:34:08: Message: from "NewUser" to "" message text :"1:34:08: NewUser: фыв"
+1:34:08: Message: from "NewUser" to "" message text :"1:34:08: NewUser: фыв"
+1:34:20: New connection: NewUserфывфы
+1:34:35: Message: from "NewUserфывфы" to "" message text :"1:34:35: NewUserфывфы: фывыфвфывфы"
+1:34:51: Error: Unknown message type! 
+ 
+1:34:51: Error: Unknown message type! 
+ 
+1:37:26: Server started
+1:37:28: New connection: NewUser
+1:37:31: Message: from "NewUser" to "" message text :"1:37:31: NewUser: asdasd"
+1:37:31: Message: from "NewUser" to "" message text :"1:37:31: NewUser: asdasdsad"
+1:37:32: Message: from "NewUser" to "" message text :"1:37:32: NewUser: sa"
+1:37:32: Message: from "NewUser" to "" message text :"1:37:32: NewUser: das"
+1:37:32: Message: from "NewUser" to "" message text :"1:37:32: NewUser: d"
+1:37:32: Message: from "NewUser" to "" message text :"1:37:32: NewUser: as"
+1:37:32: Message: from "NewUser" to "" message text :"1:37:32: NewUser: d"
+1:37:32: Message: from "NewUser" to "" message text :"1:37:32: NewUser: as"
+1:37:32: Message: from "NewUser" to "" message text :"1:37:32: NewUser: d"
+1:37:33: Message: from "NewUser" to "" message text :"1:37:33: NewUser: as"
+1:37:33: Message: from "NewUser" to "" message text :"1:37:33: NewUser: d"
+1:37:33: Message: from "NewUser" to "" message text :"1:37:33: NewUser: ds"
+1:37:33: Message: from "NewUser" to "" message text :"1:37:33: NewUser: a"
+1:37:33: Message: from "NewUser" to "" message text :"1:37:33: NewUser: asd"
+1:37:33: Message: from "NewUser" to "" message text :"1:37:33: NewUser: as"
+1:37:33: Message: from "NewUser" to "" message text :"1:37:33: NewUser: d"
+1:37:33: Message: from "NewUser" to "" message text :"1:37:33: NewUser: as"
+1:37:34: Message: from "NewUser" to "" message text :"1:37:34: NewUser: d"
+1:37:34: Message: from "NewUser" to "" message text :"1:37:34: NewUser: as"
+1:37:34: Message: from "NewUser" to "" message text :"1:37:34: NewUser: d"
+1:37:34: Message: from "NewUser" to "" message text :"1:37:34: NewUser: as"
+1:37:34: Message: from "NewUser" to "" message text :"1:37:34: NewUser: d"
+1:37:34: Message: from "NewUser" to "" message text :"1:37:34: NewUser: as"
+1:37:34: Message: from "NewUser" to "" message text :"1:37:34: NewUser: da"
+2:30:47: Server started
+2:39:07: Server started
+2:39:28: Server started
+2:40:11: New connection: NewUser
+2:40:16: Message: from "NewUser" to "" message text :"2:40:16: NewUser: dasdas"
+2:40:16: Message: from "NewUser" to "" message text :"2:40:16: NewUser: sa"
+2:40:16: Message: from "NewUser" to "" message text :"2:40:16: NewUser: da"
+2:40:16: Message: from "NewUser" to "" message text :"2:40:16: NewUser: das"
+2:40:16: Message: from "NewUser" to "" message text :"2:40:16: NewUser: d"
+2:40:16: Message: from "NewUser" to "" message text :"2:40:16: NewUser: as"
+2:40:16: Message: from "NewUser" to "" message text :"2:40:16: NewUser: asd"
+2:40:17: Message: from "NewUser" to "" message text :"2:40:17: NewUser: as"
+2:40:17: Message: from "NewUser" to "" message text :"2:40:17: NewUser: asd"
+2:40:17: Message: from "NewUser" to "" message text :"2:40:17: NewUser: as"
+2:40:17: Message: from "NewUser" to "" message text :"2:40:17: NewUser: d"
+2:40:17: Message: from "NewUser" to "" message text :"2:40:17: NewUser: asd"
+2:40:17: Message: from "NewUser" to "" message text :"2:40:17: NewUser: as"
+2:40:17: Message: from "NewUser" to "" message text :"2:40:17: NewUser: d"
+2:40:18: Message: from "NewUser" to "" message text :"2:40:18: NewUser: as"
+2:40:18: Message: from "NewUser" to "" message text :"2:40:18: NewUser: d"
+2:40:18: Message: from "NewUser" to "" message text :"2:40:18: NewUser: as"
+2:40:18: Message: from "NewUser" to "" message text :"2:40:18: NewUser: asd"
+2:40:19: Message: from "NewUser" to "" message text :"2:40:19: NewUser: dsa"
+2:40:19: Message: from "NewUser" to "" message text :"2:40:19: NewUser: d"
+2:40:19: Message: from "NewUser" to "" message text :"2:40:19: NewUser: sa"
+2:40:19: Message: from "NewUser" to "" message text :"2:40:19: NewUser: d"
+2:40:19: Message: from "NewUser" to "" message text :"2:40:19: NewUser: as"
+2:40:19: Message: from "NewUser" to "" message text :"2:40:19: NewUser: d"
+2:40:20: Message: from "NewUser" to "" message text :"2:40:20: NewUser: a"
+2:40:20: Message: from "NewUser" to "" message text :"2:40:20: NewUser: as"
+2:40:20: Message: from "NewUser" to "" message text :"2:40:20: NewUser: asd"
+2:40:20: Message: from "NewUser" to "" message text :"2:40:20: NewUser: sa"
+2:40:20: Message: from "NewUser" to "" message text :"2:40:20: NewUser: d"
+2:40:20: Message: from "NewUser" to "" message text :"2:40:20: NewUser: as"
+2:40:21: Message: from "NewUser" to "" message text :"2:40:21: NewUser: d"
+2:40:21: Message: from "NewUser" to "" message text :"2:40:21: NewUser: as"
+2:40:21: Message: from "NewUser" to "" message text :"2:40:21: NewUser: d"
+2:40:21: Message: from "NewUser" to "" message text :"2:40:21: NewUser: asd"
+2:40:22: Message: from "NewUser" to "" message text :"2:40:22: NewUser: as"
+2:40:22: Message: from "NewUser" to "" message text :"2:40:22: NewUser: d"
+2:40:22: Message: from "NewUser" to "" message text :"2:40:22: NewUser: a"
+2:40:22: Message: from "NewUser" to "" message text :"2:40:22: NewUser: s"
+2:40:22: Message: from "NewUser" to "" message text :"2:40:22: NewUser: d"
+2:40:23: Message: from "NewUser" to "" message text :"2:40:23: NewUser: s"
+2:40:23: Message: from "NewUser" to "" message text :"2:40:23: NewUser: sa"
+2:40:23: Message: from "NewUser" to "" message text :"2:40:23: NewUser: d"
+2:40:23: Message: from "NewUser" to "" message text :"2:40:23: NewUser: a"
+2:40:24: Message: from "NewUser" to "" message text :"2:40:24: NewUser: s"
+2:40:24: Message: from "NewUser" to "" message text :"2:40:24: NewUser: sd"
+2:40:24: Message: from "NewUser" to "" message text :"2:40:24: NewUser: as"
+2:40:24: Message: from "NewUser" to "" message text :"2:40:24: NewUser: d"
+2:45:34: Server started
+2:45:36: New connection: NewUser
+3:03:22: Server started
+3:04:30: Server started
+3:47:05: Server started
+3:47:11: New connection: NewUser
+3:47:14: Message: from "NewUser" to "" message text :"3:47:14: NewUser: dsadasdsad"
+3:47:14: Message: from "NewUser" to "" message text :"3:47:14: NewUser: sad"
+3:47:14: Message: from "NewUser" to "" message text :"3:47:14: NewUser: sa"
+3:47:15: Message: from "NewUser" to "" message text :"3:47:15: NewUser: d"
+3:47:15: Message: from "NewUser" to "" message text :"3:47:15: NewUser: sa"
+3:47:15: Message: from "NewUser" to "" message text :"3:47:15: NewUser: d"
+3:47:16: Message: from "NewUser" to "" message text :"3:47:16: NewUser: as"
+3:47:16: Message: from "NewUser" to "" message text :"3:47:16: NewUser: assad"
+3:47:16: Message: from "NewUser" to "" message text :"3:47:16: NewUser: sa"
+3:47:16: Message: from "NewUser" to "" message text :"3:47:16: NewUser: sad"
+3:47:16: Message: from "NewUser" to "" message text :"3:47:16: NewUser: sa"
+3:47:17: Message: from "NewUser" to "" message text :"3:47:17: NewUser: d"
+3:47:17: Message: from "NewUser" to "" message text :"3:47:17: NewUser: sa"
+3:47:17: Message: from "NewUser" to "" message text :"3:47:17: NewUser: d"
+3:47:17: Message: from "NewUser" to "" message text :"3:47:17: NewUser: as"
+3:47:17: Message: from "NewUser" to "" message text :"3:47:17: NewUser: asd"
+3:47:17: Message: from "NewUser" to "" message text :"3:47:17: NewUser: as"
+3:47:17: Message: from "NewUser" to "" message text :"3:47:17: NewUser: d"
+3:47:18: Message: from "NewUser" to "" message text :"3:47:18: NewUser: sa"
+3:47:18: Message: from "NewUser" to "" message text :"3:47:18: NewUser: d"
+3:47:18: Message: from "NewUser" to "" message text :"3:47:18: NewUser: sa"
+3:47:18: Message: from "NewUser" to "" message text :"3:47:18: NewUser: d"
+3:47:18: Message: from "NewUser" to "" message text :"3:47:18: NewUser: as"
+3:47:19: Message: from "NewUser" to "" message text :"3:47:19: NewUser: d"
+3:47:20: Message: from "NewUser" to "" message text :"3:47:20: NewUser: as"
+3:47:20: Message: from "NewUser" to "" message text :"3:47:20: NewUser: d"
+3:47:20: Message: from "NewUser" to "" message text :"3:47:20: NewUser: sa"
+3:47:20: Message: from "NewUser" to "" message text :"3:47:20: NewUser: d"
+3:47:20: Message: from "NewUser" to "" message text :"3:47:20: NewUser: sa"
+3:47:20: Message: from "NewUser" to "" message text :"3:47:20: NewUser: d"
+3:47:21: Message: from "NewUser" to "" message text :"3:47:21: NewUser: as"
+3:47:21: Message: from "NewUser" to "" message text :"3:47:21: NewUser: d"
+3:47:21: Message: from "NewUser" to "" message text :"3:47:21: NewUser: as"
+3:47:21: Message: from "NewUser" to "" message text :"3:47:21: NewUser: d"
+3:47:21: Message: from "NewUser" to "" message text :"3:47:21: NewUser: sa"
+3:47:21: Message: from "NewUser" to "" message text :"3:47:21: NewUser: d"
+3:47:22: Message: from "NewUser" to "" message text :"3:47:22: NewUser: sad"
+3:47:22: Message: from "NewUser" to "" message text :"3:47:22: NewUser: sa"
+3:47:22: Message: from "NewUser" to "" message text :"3:47:22: NewUser: d"
+3:47:22: Message: from "NewUser" to "" message text :"3:47:22: NewUser: das"
+3:47:22: Message: from "NewUser" to "" message text :"3:47:22: NewUser: d"
+3:47:22: Message: from "NewUser" to "" message text :"3:47:22: NewUser: as"
+3:48:09: Error: Данный тип CollectionView не поддерживает изменения в своем SourceCollection из потока, отличного от потока Dispatcher.
+3:53:22: Server started
+3:53:24: New connection: NewUser
+3:53:54: New connection: NewUser
+4:02:22: Server started
+4:02:24: New connection: NewUser
+4:23:21: Server started
+4:23:25: New connection: NewUser
+4:23:27: Message: from "NewUser" to "NewUser" message text :"4:23:27: NewUser: ыфввыфывыфвыфв"
+4:23:31: Message: from "NewUser" to "NewUser" message text :"4:23:31: NewUser: ыфвыфв"
+4:23:31: Message: from "NewUser" to "NewUser" message text :"4:23:31: NewUser: ыф"
+4:23:32: Message: from "NewUser" to "NewUser" message text :"4:23:32: NewUser: в"
+4:23:32: Message: from "NewUser" to "NewUser" message text :"4:23:32: NewUser: ыф"
+4:23:32: Message: from "NewUser" to "NewUser" message text :"4:23:32: NewUser: в"
+4:23:32: Message: from "NewUser" to "NewUser" message text :"4:23:32: NewUser: ыф"
+4:23:32: Message: from "NewUser" to "NewUser" message text :"4:23:32: NewUser: в"
+4:23:32: Message: from "NewUser" to "NewUser" message text :"4:23:32: NewUser: ыф"
+4:23:32: Message: from "NewUser" to "NewUser" message text :"4:23:32: NewUser: в"
+4:23:32: Message: from "NewUser" to "NewUser" message text :"4:23:32: NewUser: ыф"
+4:25:00: Server started
+4:25:04: New connection: NewUser
+4:25:05: Message: from "NewUser" to "All users" message text :"4:25:05: NewUser: asdasdadasd"
+4:25:24: New connection: NewUsersadsa
+4:25:27: Message: from "NewUsersadsa" to "All users" message text :"4:25:27: NewUsersadsa: sadsadas"
+4:25:30: Message: from "NewUsersadsa" to "All users" message text :"4:25:30: NewUsersadsa: sadsadasd"
+4:25:41: Message: from "NewUsersadsa" to "All users" message text :"4:25:41: NewUsersadsa: asdsadasd"
+4:26:58: Server started
+4:26:59: New connection: NewUser
+4:27:06: New connection: NewUser321312
+4:27:09: Message: from "NewUser321312" to "NewUser" message text :"4:27:09: NewUser321312: asdsadas"
+4:27:13: Message: from "NewUser" to "NewUser321312" message text :"4:27:13: NewUser: sadsadas"
+4:27:14: UserDisconnected NewUser
+4:27:20: UserDisconnected NewUser321312
+4:29:55: Server started

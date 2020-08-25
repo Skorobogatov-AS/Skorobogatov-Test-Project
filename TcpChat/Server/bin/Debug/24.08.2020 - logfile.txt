@@ -1,0 +1,207 @@
+﻿New connection: NewUser
+1:08:56: NewUser: asdasdasd
+1:08:56: NewUser: sad
+1:08:56: NewUser: asd
+1:08:57: NewUser: as
+1:08:57: NewUser: asda
+1:08:57: NewUser: asdasd
+1:08:57: NewUser: as
+1:08:57: NewUser: d
+1:08:57: NewUser: as
+1:08:57: NewUser: d
+1:08:58: NewUser: as
+1:08:58: NewUser: d
+1:08:58: NewUser: as
+1:08:58: NewUser: asda
+1:08:58: NewUser: asdasd
+1:08:58: NewUser: a
+1:08:58: NewUser: asd
+1:08:58: NewUser: a
+1:08:59: NewUser: sd
+1:08:59: NewUser: as
+1:08:59: NewUser: d
+1:08:59: NewUser: sa
+1:08:59: NewUser: sadas
+1:08:59: NewUser: d
+1:08:59: NewUser: as
+1:08:59: NewUser: d
+1:09:00: NewUser: as
+1:09:00: NewUser: d
+1:09:00: NewUser: dsa
+1:09:00: NewUser: f
+1:09:00: NewUser: fdsaf
+1:09:00: NewUser: sda
+1:09:00: NewUser: f
+1:09:00: NewUser: sda
+1:09:01: NewUser: f
+1:09:01: NewUser: sad
+1:09:01: NewUser: f
+1:09:01: NewUser: as
+1:09:01: NewUser: df
+1:09:01: NewUser: sda
+1:09:01: NewUser: f
+1:09:01: NewUser: fsa
+1:09:02: NewUser: dfsa
+1:09:02: NewUser: df
+1:09:02: NewUser: sa
+1:09:02: NewUser: dfs
+1:09:02: NewUser: df
+Error: Unknown message type! 
+ 
+New connection: NewUser
+New connection: NewUser21321321
+1:19:21: NewUser21321321: asdsadas
+1:19:24: NewUser21321321: adssdasads
+New connection: NewUser
+18:58:13: NewUser: asdsad
+New connection: NewUser
+New connection: NewUser
+Error: Не удается прочитать данные из транспортного соединения: Удаленный хост принудительно разорвал существующее подключение.
+New connection: NewUser
+New connection: NewUser
+Error: Не удается прочитать данные из транспортного соединения: Удаленный хост принудительно разорвал существующее подключение.
+New connection: NewUser
+Error: Не удается прочитать данные из транспортного соединения: Удаленный хост принудительно разорвал существующее подключение.
+New connection: NewUser
+Error: Не удается прочитать данные из транспортного соединения: Удаленный хост принудительно разорвал существующее подключение.
+New connection: NewUser
+Error: Не удается прочитать данные из транспортного соединения: Удаленный хост принудительно разорвал существующее подключение.
+New connection: NewUser
+Error: Не удается прочитать данные из транспортного соединения: Удаленный хост принудительно разорвал существующее подключение.
+New connection: NewUser
+Error: Не удается прочитать данные из транспортного соединения: Удаленный хост принудительно разорвал существующее подключение.
+New connection: NewUser
+Error: Не удается прочитать данные из транспортного соединения: Удаленный хост принудительно разорвал существующее подключение.
+New connection: NewUser
+New connection: NewUser13
+New connection: NewUser31
+New connection: NewUser
+New connection: NewUser231
+New connection: NewUser
+New connection: NewUser21321
+Error: Удаленный хост принудительно разорвал существующее подключение
+Error: Unknown message type! 
+ 
+New connection: NewUser
+New connection: NewUser
+Error: Удаленный хост принудительно разорвал существующее подключение
+New connection: NewUser
+New connection: NewUser23123
+New connection: NewUser
+New connection: NewUser
+New connection: NewUser31231
+New connection: NewUser1231231
+New connection: NewUser
+New connection: NewUser
+New connection: NewUser
+New connection: NewUser
+New connection: NewUser
+Error: Unable to recognize user Id. 
+ User id: Message
+Error: Unknown message type! 
+ 1
+Error: Unknown message type! 
+ 0
+Error: Unknown message type! 
+ 21:34:51: NewUser: asdasdas
+New connection: NewUser213123
+Error: Unable to recognize user Id. 
+ User id: Message
+Error: Unknown message type! 
+ 2
+Error: Unknown message type! 
+ 0
+Error: Unknown message type! 
+ 21:35:03: NewUser213123: asdasdas
+Error: Unable to recognize user Id. 
+ User id: Message
+Error: Unknown message type! 
+ 2
+Error: Unknown message type! 
+ 1
+Error: Unknown message type! 
+ 21:35:09: NewUser213123: hi
+Error: Unable to recognize user Id. 
+ User id: Message
+Error: Unknown message type! 
+ 2
+Error: Unknown message type! 
+ 1
+Error: Unknown message type! 
+ 21:35:29: NewUser213123: asdsadas
+Error: Не удается прочитать данные из транспортного соединения: Программа на вашем хост-компьютере разорвала установленное подключение.
+New connection: NewUser
+New connection: NewUser
+21:37:13: NewUser: asddsfsdfa
+Error: Не удается прочитать данные из транспортного соединения: Программа на вашем хост-компьютере разорвала установленное подключение.
+New connection: NewUser
+New connection: NewUser213213
+21:39:45: NewUser213213: sadasdas
+21:39:49: NewUser: sadsadas
+New connection: NewUser213213
+New connection: NewUser1232131
+21:41:14: NewUser1232131: фывфывыф
+21:41:17: NewUser213213: ыфвфывфывф
+Error: Не удается прочитать данные из транспортного соединения: Программа на вашем хост-компьютере разорвала установленное подключение.
+New connection: NewUser213213
+New connection: NewUser
+New connection: 213213
+New connection: NewUser
+New connection: NewUser2312
+New connection: NewUser
+New connection: NewUser213
+New connection: NewUser213
+New connection: NewUser
+Error: Не удается прочитать данные из транспортного соединения: Программа на вашем хост-компьютере разорвала установленное подключение.
+New connection: NewUser
+New connection: NewUser
+Error: Unknown message type! 
+ 
+New connection: NewUser
+New connection: NewUser
+New connection: NewUser
+New connection: NewUser23112
+22:08:51: NewUser23112: dsadasd
+Error: Не удается прочитать данные из транспортного соединения: Удаленный хост принудительно разорвал существующее подключение.
+Error: Unknown message type! 
+ 
+Error: Unknown message type! 
+ 
+New connection: NewUser
+New connection: NewUser
+23:36:48: NewUser: ыфвыфвфыв
+23:36:48: NewUser: ыфвыфв
+23:36:49: NewUser: ыфвыфв
+23:36:50: NewUser: фывфыв
+New connection: NewUsыфвыфer
+23:37:05: NewUsыфвыфer: ыфвфывфывфы
+23:37:13: NewUser: ыфвфывфыв
+23:37:14: NewUser: ыфвфыв
+23:37:15: NewUser: фывфыв
+23:37:15: NewUser: ы
+23:37:15: NewUser: ыф
+23:37:15: NewUser: в
+23:37:15: NewUser: ыф
+23:37:15: NewUser: в
+23:37:15: NewUser: ы
+23:37:16: NewUser: ыы
+23:37:16: NewUser: ы
+23:37:16: NewUser: в
+23:37:16: NewUser: ыф
+23:37:16: NewUser: ыфвф
+23:37:16: NewUser: ыфвфыв
+23:37:16: NewUser: фы
+23:37:17: NewUser: фыв
+23:37:17: NewUser: фывыфв
+23:37:17: NewUser: фы
+23:37:17: NewUser: в
+23:37:17: NewUser: фы
+23:37:17: NewUser: фывф
+23:37:17: NewUser: фывфыв
+23:37:17: NewUser: фы
+23:37:18: NewUser: в
+23:37:18: NewUser: вфы
+23:37:18: NewUser: вфыв
+23:37:18: NewUser: вфывфыв
+23:37:18: NewUser: ф
+New connection: NewUser

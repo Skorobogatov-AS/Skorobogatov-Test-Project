@@ -1,0 +1,102 @@
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\UtilsLibrary.deps.json
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\UtilsLibrary.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\UtilsLibrary.pdb
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\UtilsLibrary\obj\Debug\netstandard2.0\UtilsLibrary.csprojAssemblyReference.cache
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\UtilsLibrary\obj\Debug\netstandard2.0\UtilsLibrary.AssemblyInfoInputs.cache
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\UtilsLibrary\obj\Debug\netstandard2.0\UtilsLibrary.AssemblyInfo.cs
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\UtilsLibrary\obj\Debug\netstandard2.0\UtilsLibrary.csproj.CoreCompileInputs.cache
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\UtilsLibrary\obj\Debug\netstandard2.0\UtilsLibrary.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\UtilsLibrary\obj\Debug\netstandard2.0\UtilsLibrary.pdb
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\PresentationCore.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\WindowsBase.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\System.Xaml.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\UIAutomationTypes.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\System.Configuration.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\System.Windows.Input.Manipulations.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\UIAutomationProvider.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\System.Deployment.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\Accessibility.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\System.Security.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\System.Windows.Forms.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.dll
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\PresentationCore.xml
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\WindowsBase.xml
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\System.Xaml.xml
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\UIAutomationTypes.xml
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\System.Configuration.xml
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\System.Windows.Input.Manipulations.xml
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\UIAutomationProvider.xml
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\System.Deployment.xml
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\Accessibility.xml
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\System.Security.xml
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\System.Windows.Forms.xml
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.xml
+D:\Dev\Тестовое задание Скоробогатов\TcpChat\TcpChat\UtilsLibrary\obj\Debug\netstandard2.0\UtilsLibrary.csproj.CopyComplete
+D:\Docs\Forks\Tests\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\UtilsLibrary.deps.json
+D:\Docs\Forks\Tests\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\UtilsLibrary.dll
+D:\Docs\Forks\Tests\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\UtilsLibrary.pdb
+D:\Docs\Forks\Tests\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\PresentationCore.dll
+D:\Docs\Forks\Tests\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\WindowsBase.dll
+D:\Docs\Forks\Tests\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\System.Xaml.dll
+D:\Docs\Forks\Tests\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\UIAutomationTypes.dll
+D:\Docs\Forks\Tests\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\System.Configuration.dll
+D:\Docs\Forks\Tests\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\System.Windows.Input.Manipulations.dll
+D:\Docs\Forks\Tests\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\UIAutomationProvider.dll
+D:\Docs\Forks\Tests\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\System.Deployment.dll
+D:\Docs\Forks\Tests\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\Accessibility.dll
+D:\Docs\Forks\Tests\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\System.Security.dll
+D:\Docs\Forks\Tests\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\System.Windows.Forms.dll
+D:\Docs\Forks\Tests\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.dll
+D:\Docs\Forks\Tests\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\PresentationCore.xml
+D:\Docs\Forks\Tests\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\WindowsBase.xml
+D:\Docs\Forks\Tests\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\System.Xaml.xml
+D:\Docs\Forks\Tests\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\UIAutomationTypes.xml
+D:\Docs\Forks\Tests\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\System.Configuration.xml
+D:\Docs\Forks\Tests\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\System.Windows.Input.Manipulations.xml
+D:\Docs\Forks\Tests\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\UIAutomationProvider.xml
+D:\Docs\Forks\Tests\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\System.Deployment.xml
+D:\Docs\Forks\Tests\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\Accessibility.xml
+D:\Docs\Forks\Tests\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\System.Security.xml
+D:\Docs\Forks\Tests\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\System.Windows.Forms.xml
+D:\Docs\Forks\Tests\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.xml
+D:\Docs\Forks\Tests\TcpChat\UtilsLibrary\obj\Debug\netstandard2.0\UtilsLibrary.csprojAssemblyReference.cache
+D:\Docs\Forks\Tests\TcpChat\UtilsLibrary\obj\Debug\netstandard2.0\UtilsLibrary.AssemblyInfoInputs.cache
+D:\Docs\Forks\Tests\TcpChat\UtilsLibrary\obj\Debug\netstandard2.0\UtilsLibrary.AssemblyInfo.cs
+D:\Docs\Forks\Tests\TcpChat\UtilsLibrary\obj\Debug\netstandard2.0\UtilsLibrary.csproj.CoreCompileInputs.cache
+D:\Docs\Forks\Tests\TcpChat\UtilsLibrary\obj\Debug\netstandard2.0\UtilsLibrary.csproj.CopyComplete
+D:\Docs\Forks\Tests\TcpChat\UtilsLibrary\obj\Debug\netstandard2.0\UtilsLibrary.dll
+D:\Docs\Forks\Tests\TcpChat\UtilsLibrary\obj\Debug\netstandard2.0\UtilsLibrary.pdb
+D:\Dev\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\UtilsLibrary.deps.json
+D:\Dev\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\UtilsLibrary.dll
+D:\Dev\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\UtilsLibrary.pdb
+D:\Dev\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\PresentationCore.dll
+D:\Dev\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\WindowsBase.dll
+D:\Dev\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\System.Xaml.dll
+D:\Dev\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\UIAutomationTypes.dll
+D:\Dev\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\System.Configuration.dll
+D:\Dev\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\System.Windows.Input.Manipulations.dll
+D:\Dev\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\UIAutomationProvider.dll
+D:\Dev\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\System.Deployment.dll
+D:\Dev\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\Accessibility.dll
+D:\Dev\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\System.Security.dll
+D:\Dev\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\System.Windows.Forms.dll
+D:\Dev\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.dll
+D:\Dev\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\PresentationCore.xml
+D:\Dev\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\WindowsBase.xml
+D:\Dev\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\System.Xaml.xml
+D:\Dev\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\UIAutomationTypes.xml
+D:\Dev\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\System.Configuration.xml
+D:\Dev\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\System.Windows.Input.Manipulations.xml
+D:\Dev\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\UIAutomationProvider.xml
+D:\Dev\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\System.Deployment.xml
+D:\Dev\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\Accessibility.xml
+D:\Dev\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\System.Security.xml
+D:\Dev\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\System.Windows.Forms.xml
+D:\Dev\TcpChat\UtilsLibrary\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.xml
+D:\Dev\TcpChat\UtilsLibrary\obj\Debug\netstandard2.0\UtilsLibrary.csprojAssemblyReference.cache
+D:\Dev\TcpChat\UtilsLibrary\obj\Debug\netstandard2.0\UtilsLibrary.AssemblyInfoInputs.cache
+D:\Dev\TcpChat\UtilsLibrary\obj\Debug\netstandard2.0\UtilsLibrary.AssemblyInfo.cs
+D:\Dev\TcpChat\UtilsLibrary\obj\Debug\netstandard2.0\UtilsLibrary.csproj.CoreCompileInputs.cache
+D:\Dev\TcpChat\UtilsLibrary\obj\Debug\netstandard2.0\UtilsLibrary.csproj.CopyComplete
+D:\Dev\TcpChat\UtilsLibrary\obj\Debug\netstandard2.0\UtilsLibrary.dll
+D:\Dev\TcpChat\UtilsLibrary\obj\Debug\netstandard2.0\UtilsLibrary.pdb

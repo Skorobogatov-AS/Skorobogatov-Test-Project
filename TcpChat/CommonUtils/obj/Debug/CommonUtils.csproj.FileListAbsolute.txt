@@ -1,0 +1,11 @@
+D:\Dev\TcpChat\CommonUtils\obj\Debug\CommonUtils.csproj.CoreCompileInputs.cache
+D:\Dev\TcpChat\CommonUtils\bin\Debug\CommonUtils.dll.config
+D:\Dev\TcpChat\CommonUtils\bin\Debug\CommonUtils.dll
+D:\Dev\TcpChat\CommonUtils\bin\Debug\CommonUtils.pdb
+D:\Dev\TcpChat\CommonUtils\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Dev\TcpChat\CommonUtils\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Dev\TcpChat\CommonUtils\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Dev\TcpChat\CommonUtils\obj\Debug\CommonUtils.csproj.CopyComplete
+D:\Dev\TcpChat\CommonUtils\obj\Debug\CommonUtils.dll
+D:\Dev\TcpChat\CommonUtils\obj\Debug\CommonUtils.pdb
+D:\Dev\TcpChat\CommonUtils\obj\Debug\CommonUtils.csprojAssemblyReference.cache

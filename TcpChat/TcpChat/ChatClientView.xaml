@@ -1,0 +1,110 @@
+﻿<Window x:Class="TcpChat.ChatClientView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:msbehaviors="http://schemas.microsoft.com/xaml/behaviors"
+        xmlns:behaviours="clr-namespace:CommonUtils.Behaviors;assembly=CommonUtils"
+        xmlns:models="clr-namespace:TcpChat.ViewModels"
+        mc:Ignorable="d"
+        Title="ChatClientVmView" Height="450" Width="600">
+    <Window.DataContext>
+        <models:ChatClientVm/>
+    </Window.DataContext>
+
+    <msbehaviors:Interaction.Triggers>
+        <msbehaviors:EventTrigger EventName="Closing">
+            <msbehaviors:InvokeCommandAction Command="{Binding DisconnectCommand}" />
+        </msbehaviors:EventTrigger>
+    </msbehaviors:Interaction.Triggers>
+
+    <Window.Resources>
+        <Style TargetType="{x:Type TextBox}">
+            <Setter Property="Margin" Value="3" />
+            <Setter Property="TextAlignment" Value="Center" />
+        </Style>
+        <Style TargetType="{x:Type Button}">
+            <Setter Property="Margin" Value="3" />
+        </Style>
+        <Style TargetType="{x:Type ListBox}">
+            <Setter Property="Margin" Value="3" />
+        </Style>
+        <Style TargetType="{x:Type TextBlock}">
+            <Setter Property="Margin" Value="3" />
+            <Setter Property="TextAlignment" Value="Center" />
+        </Style>
+    </Window.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="150" />
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.ColumnSpan="2">
+            <UniformGrid Columns="4">
+                <TextBlock Text="IP" />
+                <TextBlock Text="Port" />
+                <TextBlock Text="UserName" />
+            </UniformGrid>
+
+            <UniformGrid Columns="4">
+                <TextBox Text="{Binding Ip, UpdateSourceTrigger=PropertyChanged}" />
+                <TextBox Text="{Binding Port, UpdateSourceTrigger=PropertyChanged}" />
+                <TextBox Text="{Binding UserName, UpdateSourceTrigger=PropertyChanged}" />
+                <Button Command="{Binding ConnectCommand}" Content="Connect" />
+            </UniformGrid>
+        </StackPanel>
+
+        <ListBox Grid.Row="1" Grid.Column="1"  HorizontalContentAlignment="Left" 
+                 ItemsSource="{Binding ChatUsers, UpdateSourceTrigger=PropertyChanged}"
+                 IsSynchronizedWithCurrentItem="True">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding Path=UserName}">
+                        <TextBlock.InputBindings>
+                            <MouseBinding MouseAction="LeftDoubleClick"
+                                          Command="{Binding Path=DataContext.StartChatCommand, RelativeSource={RelativeSource AncestorType={x:Type Window}}}"
+                                          CommandParameter="{Binding Path=Id}" />
+                        </TextBlock.InputBindings>
+                    </TextBlock>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+        <TextBox Grid.Row="2" Grid.Column="0" TextAlignment="Left" TextWrapping="Wrap" VerticalScrollBarVisibility="Auto" MaxHeight="200"
+                 Text="{Binding Message, UpdateSourceTrigger=PropertyChanged}">
+            <TextBox.InputBindings>
+                <KeyBinding Key="Enter" Command="{Binding SendMessageCommand}" />
+            </TextBox.InputBindings>
+        </TextBox>
+
+        <Button Grid.Row="2" Grid.Column="1"  Content="Send" MaxHeight="20" 
+                Command="{Binding SendMessageCommand}" VerticalAlignment="Bottom"/>
+
+        <TabControl Grid.Row="1" Grid.Column="0"
+                    IsSynchronizedWithCurrentItem="True" 
+                    ItemsSource="{Binding Path=ChatTabs}" SelectedItem="{Binding ActiveClient}">
+            <TabControl.ItemTemplate>
+                <DataTemplate DataType="models:ServerClient">
+                    <TextBlock Text ="{Binding UserName, Mode=OneWay}"></TextBlock>
+                </DataTemplate>
+            </TabControl.ItemTemplate>
+            <TabControl.ContentTemplate>
+                <DataTemplate DataType="models:ServerClient">
+                    <TextBox Text ="{Binding Chat, Mode=OneWay}" IsReadOnly="True" TextAlignment="Left" TextWrapping="Wrap" 
+                             AcceptsReturn="True" VerticalScrollBarVisibility="Auto">
+                        <msbehaviors:Interaction.Behaviors>
+                            <behaviours:TextBoxScrollDownBehavoir />
+                        </msbehaviors:Interaction.Behaviors>
+                    </TextBox>
+                </DataTemplate>
+            </TabControl.ContentTemplate>
+        </TabControl>
+    </Grid>
+</Window>
