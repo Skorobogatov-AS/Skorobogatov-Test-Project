@@ -15,18 +15,29 @@ namespace Server.ViewModels
     /// </summary>
     public class ServerVm : INotifyPropertyChanged
     {
-
-        private int _port;
-
         /// <summary>
-        /// Модель сервера.
+        /// <see cref="Port"/>
         /// </summary>
         private ServerModel _serverModel;
 
+        /// <summary>
+        /// Порт.
+        /// </summary>
+        private int _port;
+
+        /// <summary>
+        /// Список всех сообщений сервера.
+        /// </summary>
         public string ServerMessages => _serverModel.ServerMessages;
+        
+        /// <summary>
+        /// Сервер запущен.
+        /// </summary>
+        public bool IsRunning => _serverModel.IsRunning;
 
-        public bool IsRunning { get; set; }
-
+        /// <summary>
+        /// Порт.
+        /// </summary>
         public int Port
         {
             get => _port;
@@ -77,7 +88,7 @@ namespace Server.ViewModels
                         _serverModel.Port = Port;
                         _serverModel.StartServer();
                     });
-                }, () => !_serverModel.IsRunning && SelectedInterface != null);
+                }, () => !IsRunning && SelectedInterface != null);
             }
         }
         

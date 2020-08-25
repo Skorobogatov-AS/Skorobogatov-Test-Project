@@ -154,7 +154,7 @@ namespace TcpChat.ViewModels
         {
             get
             {
-                return new AsyncCommand((id) =>
+                return new AsyncCommand(id =>
                 {
                     return Task.Factory.StartNew(() =>
                     {

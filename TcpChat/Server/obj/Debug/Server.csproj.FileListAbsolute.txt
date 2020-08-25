@@ -253,3 +253,26 @@ D:\Dev\TcpChat\Server\bin\Debug\Microsoft.Xaml.Behaviors.pdb
 D:\Dev\TcpChat\Server\bin\Debug\Microsoft.Xaml.Behaviors.xml
 D:\Dev\TcpChat\Server\obj\Debug\ServerWindow.g.cs
 D:\Dev\TcpChat\Server\obj\Debug\ServerWindow.baml
+E:\Тестовое задание Скоробогатов А. С\TcpChat\Server\bin\Debug\Server.exe.config
+E:\Тестовое задание Скоробогатов А. С\TcpChat\Server\bin\Debug\Server.exe
+E:\Тестовое задание Скоробогатов А. С\TcpChat\Server\bin\Debug\Server.pdb
+E:\Тестовое задание Скоробогатов А. С\TcpChat\Server\bin\Debug\CommonUtils.dll
+E:\Тестовое задание Скоробогатов А. С\TcpChat\Server\bin\Debug\Microsoft.Xaml.Behaviors.dll
+E:\Тестовое задание Скоробогатов А. С\TcpChat\Server\bin\Debug\CommonUtils.pdb
+E:\Тестовое задание Скоробогатов А. С\TcpChat\Server\bin\Debug\CommonUtils.dll.config
+E:\Тестовое задание Скоробогатов А. С\TcpChat\Server\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+E:\Тестовое задание Скоробогатов А. С\TcpChat\Server\bin\Debug\Microsoft.Xaml.Behaviors.xml
+E:\Тестовое задание Скоробогатов А. С\TcpChat\Server\obj\Debug\Server.csprojAssemblyReference.cache
+E:\Тестовое задание Скоробогатов А. С\TcpChat\Server\obj\Debug\ServerWindow.g.cs
+E:\Тестовое задание Скоробогатов А. С\TcpChat\Server\obj\Debug\App.g.cs
+E:\Тестовое задание Скоробогатов А. С\TcpChat\Server\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Тестовое задание Скоробогатов А. С\TcpChat\Server\obj\Debug\Server_MarkupCompile.cache
+E:\Тестовое задание Скоробогатов А. С\TcpChat\Server\obj\Debug\Server_MarkupCompile.lref
+E:\Тестовое задание Скоробогатов А. С\TcpChat\Server\obj\Debug\ServerWindow.baml
+E:\Тестовое задание Скоробогатов А. С\TcpChat\Server\obj\Debug\Server.g.resources
+E:\Тестовое задание Скоробогатов А. С\TcpChat\Server\obj\Debug\Server.Properties.Resources.resources
+E:\Тестовое задание Скоробогатов А. С\TcpChat\Server\obj\Debug\Server.csproj.GenerateResource.cache
+E:\Тестовое задание Скоробогатов А. С\TcpChat\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\Тестовое задание Скоробогатов А. С\TcpChat\Server\obj\Debug\Server.csproj.CopyComplete
+E:\Тестовое задание Скоробогатов А. С\TcpChat\Server\obj\Debug\Server.exe
+E:\Тестовое задание Скоробогатов А. С\TcpChat\Server\obj\Debug\Server.pdb

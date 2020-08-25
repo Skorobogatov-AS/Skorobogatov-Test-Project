@@ -239,3 +239,7 @@ New connection: NewUser
 4:27:14: UserDisconnected NewUser
 4:27:20: UserDisconnected NewUser321312
 4:29:55: Server started
+13:32:19: Server started
+13:32:23: New connection: NewUser
+13:32:25: Message: from "NewUser" to "All users" message text :"13:32:25: NewUser: asdasdas"
+13:32:27: UserDisconnected NewUser

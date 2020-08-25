@@ -245,8 +245,7 @@ namespace Server.Models
 
                 RegisterNewClient(addedClient, userName, tcpClient);
 
-                tokenSource.Token.Register(callback: ()
-                    =>
+                tokenSource.Token.Register(() =>
                 {
                     if (tcpClient.Connected)
                         MessagesUtils.DisconnectUser(ConnectedClients, tcpClient,

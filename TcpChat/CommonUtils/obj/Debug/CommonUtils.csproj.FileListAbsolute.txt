@@ -9,3 +9,14 @@ D:\Dev\TcpChat\CommonUtils\obj\Debug\CommonUtils.csproj.CopyComplete
 D:\Dev\TcpChat\CommonUtils\obj\Debug\CommonUtils.dll
 D:\Dev\TcpChat\CommonUtils\obj\Debug\CommonUtils.pdb
 D:\Dev\TcpChat\CommonUtils\obj\Debug\CommonUtils.csprojAssemblyReference.cache
+E:\Тестовое задание Скоробогатов А. С\TcpChat\CommonUtils\bin\Debug\CommonUtils.dll.config
+E:\Тестовое задание Скоробогатов А. С\TcpChat\CommonUtils\bin\Debug\CommonUtils.dll
+E:\Тестовое задание Скоробогатов А. С\TcpChat\CommonUtils\bin\Debug\CommonUtils.pdb
+E:\Тестовое задание Скоробогатов А. С\TcpChat\CommonUtils\bin\Debug\Microsoft.Xaml.Behaviors.dll
+E:\Тестовое задание Скоробогатов А. С\TcpChat\CommonUtils\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+E:\Тестовое задание Скоробогатов А. С\TcpChat\CommonUtils\bin\Debug\Microsoft.Xaml.Behaviors.xml
+E:\Тестовое задание Скоробогатов А. С\TcpChat\CommonUtils\obj\Debug\CommonUtils.csprojAssemblyReference.cache
+E:\Тестовое задание Скоробогатов А. С\TcpChat\CommonUtils\obj\Debug\CommonUtils.csproj.CoreCompileInputs.cache
+E:\Тестовое задание Скоробогатов А. С\TcpChat\CommonUtils\obj\Debug\CommonUtils.csproj.CopyComplete
+E:\Тестовое задание Скоробогатов А. С\TcpChat\CommonUtils\obj\Debug\CommonUtils.dll
+E:\Тестовое задание Скоробогатов А. С\TcpChat\CommonUtils\obj\Debug\CommonUtils.pdb
